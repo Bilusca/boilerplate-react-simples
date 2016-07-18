@@ -23,3 +23,7 @@ Isso é simples filhão.
 `npm install --save-dev babel-preset-react`
 
 Simples não ?!
+
+## Hot Loader para React (Tipo live Reload)
+
+`npm install react-hot-loader@3.0.0-beta.2 --save-dev`
