@@ -6,6 +6,8 @@ Então filhão, lebre de rodar
 
 `npm install webpack-dev-server --save-dev`
 
+`npm install webpack-validator --save-dev`
+
 Lembre-se ambém de ter o Webpack isntalado na máquina:
 
 `npm install -g webpack`
@@ -27,3 +29,7 @@ Simples não ?!
 ## Hot Loader para React (Tipo live Reload)
 
 `npm install react-hot-loader@3.0.0-beta.2 --save-dev`
+
+## Agora o linter boladão
+
+`npm install standard standard-loader --save-dev`
